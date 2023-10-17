@@ -13,8 +13,7 @@ body {
     height: 100vh;
 
     /* Cria um gradiente de cores de cima para baixo como plano de fundo */
-    background: linear-gradient(to bottom, #1d2b53, #7e2553, #ff5555);
-
+    background: linear-gradient(135deg, #001da0, #5a007e, #a81100);
     /* Define o tamanho de fundo para cobrir toda a área disponível */
     background-size: cover;
 
@@ -28,7 +27,7 @@ body {
     margin: 0;
 
     /* Define a cor do texto dentro do corpo como branco */
-    color: white;
+    color: black 
 }
 
 .cabecalho {
@@ -115,6 +114,7 @@ body {
 
     /* Alinha o texto justificado */
     text-align: justify;
+    gap: 20px;
 }
 
 /* Estilos para elementos com a classe .apresentacao-conteudo-paragrafo */
@@ -460,7 +460,7 @@ body {
     max-width: 100%;
 
     /* Define a largura do elemento como 650px */
-    width: 650px;
+    width: 330px;
 
     /* Define a altura do elemento como 650px */
     height: 650px;

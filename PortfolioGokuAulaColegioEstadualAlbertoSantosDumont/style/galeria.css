@@ -28,7 +28,7 @@ body {
     margin: 0;
 
     /* Define a cor do texto dentro do corpo como branco */
-    color: white;
+    color: red;
 }
 
 /* Espaçamento entre o cabeçalho (header) e o conteúdo principal (main) */
@@ -47,7 +47,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     font-weight: 600;
-    color: white;
+    color-red;
     text-decoration: none;
 }
 
